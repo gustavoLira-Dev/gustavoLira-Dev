@@ -27,8 +27,8 @@
 - [ ] Conseguir minha primeira oportunidade como dev
 
 ## 📫 Como me encontrar
-[![LinkedIn](https://www.linkedin.com/in/gustavo-lira-05a776381/)
-[![Email](gustavoalveslira25@gmail.com)
+[![LinkedIn]()
+gustavoalveslira25@gmail.com
 
 ---
 ⭐ *"A jornada de mil milhas começa com um único passo"*
